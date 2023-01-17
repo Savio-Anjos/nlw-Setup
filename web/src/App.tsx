@@ -1,9 +1,13 @@
+import { Habit } from "./components/Habit"
 
 function App() {
 
   return (
-   
-   <h1>Hello world</h1>
+   <div>
+   <Habit completed={3} />
+
+   <Habit completed={10} />
+   </div>
   )
 }
 
