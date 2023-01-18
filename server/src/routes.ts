@@ -64,7 +64,7 @@ app.get('/day', async (request) => {
   const day = await prisma.day.findUnique({
     where: {
       date: parsedDate.toDate(),
-    },
+    },  
     include: {
       day_habits: true
     }
