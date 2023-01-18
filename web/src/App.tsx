@@ -1,4 +1,5 @@
 import { Header } from './components/Header'
+import { Summary } from './components/SummaryTable'
 import './styles/global.css'
 // import { Habit } from "./components/Habit"
 
@@ -9,6 +10,7 @@ export function App() {
     <div className='w-full max-w-5xl px-6 flex flex-col gap-16'>
        
        <Header />
+       <Summary />
     </div>   
    </div>
   )
