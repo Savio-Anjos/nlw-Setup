@@ -36,4 +36,33 @@ app.post('/habits', async (request) => {
       }
     })
 })
+
+app.get('/day', async (request) => {
+  const getDayParams = z.object({
+    date: z.coerce.date()
+  })
+
+  const { date } = getDayParams.parse(request.query)
+
+  const parseDate = dayjs(date).startOf('day')
+
+  const weekDay = parseDate.get('day')
+
+  const possibleHabits = await prisma.habit.findMany({
+    where: {
+      created_at: {
+        lte: date,
+      },
+      weekDays: {
+        some: {
+          week_day: weekDay,
+        }
+      }
+    }
+  })
+  return {
+    possibleHabits,
+  }
+})
+
 }
