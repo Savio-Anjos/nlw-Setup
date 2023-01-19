@@ -3,7 +3,7 @@ import { z } from "zod"
 import { prisma } from "./lib/prisma"
 import dayjs from "dayjs"
 
-
+      
 
 export async function appRoutes(app: FastifyInstance) {
     /*
