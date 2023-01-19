@@ -1,5 +1,6 @@
 import { Check } from "phosphor-react";
 
+
 export function NewHabitForm() {
     return (
         <form className="w-full flex flex-col mt-6">
