@@ -41,7 +41,7 @@ export function SummaryTable() {
             completed={Math.round(Math.random() * 5)} 
             
             />
-          )
+          )   
         })}
 
         {amountOfDaysToFill > 0 && Array.from({ length: amountOfDaysToFill }).map((_, i) => {
