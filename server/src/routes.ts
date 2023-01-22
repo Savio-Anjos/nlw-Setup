@@ -10,7 +10,7 @@ export async function appRoutes(app: FastifyInstance) {
   Método HTTP: Get, post, Put, PAtch, Delete
 */
 
-app.post('/habits', async (request) => {  
+app.post('/habits', async (request) => {   
     const createHabitBody = z.object({
       title: z.string(),
       weekDays: z.array(
