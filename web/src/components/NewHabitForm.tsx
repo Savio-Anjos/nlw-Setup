@@ -71,7 +71,7 @@ export function NewHabitForm() {
               {availableWeekDays.map((weekDay, index) => {
                 return (
                    <Checkbox.Root
-                   key={weekDay}
+                   key={weekDay} 
                    className='flex items-center gap-3 group'
                    checked={weekDays.includes(index)}
                    onCheckedChange={() => handleToggleWeekDay(index)}
