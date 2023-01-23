@@ -75,7 +75,7 @@ npm run dev
 
 <p>Criado com 💙 por <a href='https://github.com/Savio-Anjos/' target='_blank'>Mobile</a></p>
 ---
-<p>Criado com 💙 por <a href='https://github.com/Savio-Anjos/' target='_blank'>Sávio Anjos</a></p>
+<p>Criado com 💙 por <a href='https://github.com/Savio-Anjos/nlw-Setup-mobile' target='_blank'>Sávio Anjos</a></p>
 
 
  
