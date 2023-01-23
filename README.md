@@ -1,4 +1,4 @@
- <p align='center'><img width='400' src="./.gitHub/logo.png"/></p>
+ <p align='center'><img width='200' src="./.gitHub/logo.png"/></p>
 
  <h1 align="center">Organize Flix</h1>
 
