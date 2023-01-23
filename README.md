@@ -13,9 +13,11 @@ Esse projeto está utilizando as seguintes tecnologias:
     
 
 - [React](https://pt-br.reactjs.org/)
+- [ReactNative](https://reactnative.dev/)
 - [Node](https://nodejs.org/en/)
 - [Typescript](https://www.typescriptlang.org/)  
 - [Vite](https://vitejs.dev/)  
+- [Fastify](https://www.fastify.io/)
 
 
 ## ⚙️ Funcionalidades
