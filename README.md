@@ -73,7 +73,7 @@ npm run dev
 <img src=".gitHub/modal.png">
 
 
-<p>Criado com 💙 por <a href='https://github.com/Savio-Anjos/nlw-Setup-mobile' target='_blank'></a></p>
+<p>Criado com 💙 por <a href='https://github.com/Savio-Anjos/nlw-Setup-mobile' target='_blank'>Mobile</a></p>
 ---
 <p>Criado com 💙 por <a href='https://github.com/Savio-Anjos/' target='_blank'>Sávio Anjos</a></p>
 
