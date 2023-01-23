@@ -18,6 +18,7 @@ Esse projeto está utilizando as seguintes tecnologias:
 - [Typescript](https://www.typescriptlang.org/)  
 - [Vite](https://vitejs.dev/)  
 - [Fastify](https://www.fastify.io/)
+- [TailwindCSS](https://tailwindcss.com/)
 
 
 ## ⚙️ Funcionalidades
