@@ -79,7 +79,9 @@ npm run dev
 
 ---
 
-<p>Clique aqui para acessar o projeto mobile:<a href='https://github.com/Savio-Anjos/nlw-Setup-mobile' target='_blank'>Mobile</a></p>
+<p>Clique aqui para acessar o projeto mobile:<a href='https://github.com/Savio-Anjos/nlw-Setup-mobile' target='_blank'> Mobile</a></p>
+
+---
 
 
  
