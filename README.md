@@ -1,11 +1,11 @@
  <p align='center'><img width='200' src="./.gitHub/logo.png"/></p>
 
- <h1 align="center">Organize Flix</h1>
+ <h1 align="center">NLW Setup</h1>
 
  <p align='center'>
-<img src="https://img.shields.io/github/repo-size/Savio-Anjos/Organize-Robbies?color=3B82F6">
-<img src="https://img.shields.io/github/languages/count/Savio-Anjos/Organize-Robbies?color=3B82F6">
-<img src="https://img.shields.io/github/last-commit/Savio-Anjos/Organize-Robbies?color=3B82F6"> 
+<img src="https://img.shields.io/github/repo-size/Savio-Anjos/nlw-Setup?color=3B82F6">
+<img src="https://img.shields.io/github/languages/count/Savio-Anjos/nlw-Setup?color=3B82F6">
+<img src="https://img.shields.io/github/last-commit/Savio-Anjos/nlw-Setup?color=3B82F6"> 
 </p>
 
 ## 🚀 Tecnologias
@@ -15,27 +15,25 @@ Esse projeto está utilizando as seguintes tecnologias:
 - [React](https://pt-br.reactjs.org/)
 - [Node](https://nodejs.org/en/)
 - [Typescript](https://www.typescriptlang.org/)  
-- [Next](https://nextjs.org//)  
+- [Vite](https://vitejs.dev/)  
 
 
 ## ⚙️ Funcionalidades
-- Sistema de cadastro e login de usuários;
-- Criar novas categorias;
-- Listar filmes por categoria;
-- Cadastrar novos filmes;
-- Envio de imagem para logo do filme;
-- Deletar filme;
-- Adicionar e remover dos favoritos;
+- Criar hábitos
+- Listar hábitos diários
+- Marcar e desmarcar como concluído
+- Exibir porcentagem concluída
+- Exibir diferentes cores baseado na porcentagem concluída
 
 ## 🎲 Como utilizar
 ### Clone esse repositório
 ```bash
-git clone https://github.com/Savio-Anjos/Organize-Flix.git
+git clone https://github.com/Savio-Anjos/nlw-Setup.git
 
 ```
-### Navegue até o diretório backend
+### Navegue até o diretório server
 ```bash 
-cd backend
+cd server
 ```
 
 ### Instale as dependências
@@ -52,9 +50,9 @@ yarn dev
 npm run dev
 ```
 
-### Navegue até o diretório frontend
+### Navegue até o diretório web
 ```bash 
-cd frontend
+cd web
 ```
 
 ### Instale as dependências
@@ -71,8 +69,8 @@ npm run dev
 ```
 
 ## 🖼️ Layout
-<img src=".github/dashboard.png">
-<img src=".github/filmes.png">
+<img src=".github/home.png">
+<img src=".github/modal.png">
 
 ---
 <p>Criado com 💙 por <a href='https://github.com/Savio-Anjos/' target='_blank'>Sávio Anjos</a></p>
