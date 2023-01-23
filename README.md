@@ -1,4 +1,4 @@
- <p align='center'><img width='200' src="./.gitHub/logo.png"/></p>
+ <p align='center'><img width='200' src="./.gitHub/logo.svg"/></p>
 
  <h1 align="center">NLW Setup</h1>
 
