@@ -69,8 +69,8 @@ npm run dev
 ```
 
 ## 🖼️ Layout
-<img src=".github/home.png">
-<img src=".github/modal.png">
+<img src=".gitHub/home.png">
+<img src=".gitHub/modal.png">
 
 ---
 <p>Criado com 💙 por <a href='https://github.com/Savio-Anjos/' target='_blank'>Sávio Anjos</a></p>
